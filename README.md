@@ -32,7 +32,7 @@ settings → collaborators
 5. Create a new private GitHub Project **(via the project tab of your repo)**
 - Name it **CSC_ECE_517_Assignment1**
 - Select the _Basic Kanban_ template, and link your assignment repository.
-- You can set up your Project Board Columns in a variety of ways. Your board **must** include a _ToDO_, _InProgress_, and _Done_ column. You may reference the following [Project Board](https://github.com/carmenbentley/Assignment0/projects/1?add_cards_query=is%3Aopen) as a template.
+- You can set up your Project Board Columns in a variety of ways. Your board **must** include a _ToDO_, _InProgress_, and _Done_ column. You may reference the following [Project Board](https://github.com/carmenbentley/Assignment0/projects/1) as a template.
 ________
 **GitHub Project Boards** :
 - _Create Project issues/tasks for each of the following, moving them appropriately through the kanban board columns and closing the issue when completed._
