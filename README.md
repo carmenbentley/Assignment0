@@ -83,7 +83,7 @@ _This will give you an opportunity to work with a markdown file to embed an imag
 - **Description**: Request for Assignment0 to be graded.
 
 ___
-** Putting git commands into practice** :
+**Putting git commands into practice** :
 1. Visit the [GitPractice](insertlink) repository.
 2. Fork the repository.
 	![](insert_link)
@@ -133,7 +133,6 @@ To complete this step, you should fill out the following assignment grading rubr
 | 13. Project Board Issue #5                                                                            | 6 points                   | (-1) incorrect Label <br/>(-1) incorrect Assignee <br/>(-1) Description does not accurately describe the issue/task.                                                                                                                                                                                                                                                                                                                                    |                          |
 | 14. Completed Assignment Rubric is embedded in README.md or included via markdown formatting.         | 2 points                   | None                                                                                                                                                                                                                                                                                                                                                                                                                                          |                          |
 | 15. Pull request received with new file [<unityid>.txt] requested to be merged into GitPractice repo. | 2 points                   | None                                                                                                                                                                                                                                                                                                                                                                                                                                          |                          |
-|
 	
 Your final grade will be computed based on 3 randomly selected rows from the above Assignment Grading Rubric.
 **Example**:
