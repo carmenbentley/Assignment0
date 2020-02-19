@@ -35,7 +35,10 @@ settings → collaborators
 - You can set up your Project Board Columns in a variety of ways. Your board **must** include a _ToDO_, _InProgress_, and _Done_ column. You may reference the following [Project Board](https://github.com/carmenbentley/Assignment0/projects/1?add_cards_query=is%3Aopen) as a template.
 ________
 **GitHub Project Boards** :
-- _Create Project issues/tasks for each of the following, moving them appropriately through the kanban board columns ToDo → InProgress → Done, and closing the issue when completed._
+- _Create Project issues/tasks for each of the following, moving them appropriately through the kanban board columns and closing the issue when completed._
+```Bash
+ToDo → InProgress → Done
+```
 - **Note**: as stated in the above presentation, GitHub Project Board Issues are also known as Tasks. Issues are a generalized card on the Project Board that can represent an item that needs to be completed, fixed, reconsidered, etc.
 1. Issue 1
 - **Label**: Assignment1 Todo
