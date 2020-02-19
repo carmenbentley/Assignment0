@@ -83,7 +83,7 @@ _This will give you an opportunity to work with a markdown file to embed an imag
 
 ___
 **Putting git commands into practice** :
-1. Visit the [GitPractice](insertlink) repository.
+1. Visit the [GitPractice](https://github.com/carmenbentley/GitPractice) repository.
 2. Fork the repository.
 	![](fork_repo.png)
 3. Clone your forked repository using the HTTPS clone url and create a branch.
