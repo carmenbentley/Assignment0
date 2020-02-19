@@ -42,15 +42,95 @@ ________
 - **Label**: Assignment1 Todo
 	- _This [new label](https://help.github.com/en/github/managing-your-work-on-github/creating-a-label) should be created__.
 - **Assignees**: You are responsible for completing this Issue,a assign yourself to the task.
-- **Description**: Complete all the levels in the following “Main” topics of the Git Tutorial
-		- (1) Introduction Sequence
-		- (2) Ramping Up
-		- (3) Moving Work Around
-		- (4) A Mixed Bag
-	- Once you have completed each of the levels required for this task, you should have learned the basics for understanding important git commands and sequences that will be helpful when completing group assignments using a shared code base, such as committing code, merging conflicts, branching, etc.
+- **Description**: Complete all the levels in the following “Main” topics of the [Git Tutorial](http://pcottle.github.io/learnGitBranching/)
+	- (1) Introduction Sequence
+	- (2) Ramping Up
+	- (3) Moving Work Around
+	- (4) A Mixed Bag
+
+_Once you have completed each of the levels required for this task, you should have learned the basics for understanding important git commands and sequences that will be helpful when completing group assignments using a shared code base, such as committing code, merging conflicts, branching, etc._
 2. Issue 2
 - **Label**: Assignment1 Todo
 - **Assignees**: You are responsible for completing this Issue, assign yourself to the task.
-- **Description**: Add a screenshot named _completedGitLevels.png_ to your CSC_ECE517_Assignment1 repository that captures your progress of the tutorial mentioned in Issue 1. This image will serve as evidence that you have completed the 
-levels required. It will also give you an opportunity to experience adding files to your NCSU GitHub Repository. Below you will see an example screenshot of what your image should look like.
+- **Description**: Add a screenshot named _completedGitLevels.png_ to your CSC_ECE517_Assignment1 repository that captures your progress of the tutorial mentioned in Issue 1.
 
+_This image will serve as evidence that you have completed the 
+levels required. It will also give you an opportunity to experience adding files to your NCSU GitHub Repository. Below you will see an example screenshot of what your image should look like._
+![](Example_completedGitLevels.png)
+
+3. Issue 3
+- **Label**: Assignment1 Todo
+- **Assignee**: You are responsible for completing this Issue, assign yourself to the task.
+- **Description**: Embed _completedGitLevels.png_ within your CSC_ECE_517_Assignment1 repository README.md
+
+_This will give you an opportunity to work with a markdown file to embed an image into your README.md rather than just inserting a link. You will be required to do this in future assignments to enhance your project wiki pages._
+
+4. Issue 4
+- **Label**: Assignment1 Todo
+- **Assignee**: yourself
+- **Description**:
+	- (1) Add a headshot as your profile picture for your NCSU GitHub account. _This picture should include only you and no other people._
+	- (2) Update your public name to first and last name known at NCSU. 
+	- (3) Update your public email to your ncsu email.
+	- NOTE: if a course project requires use of a personal github repository, please complete the above steps for it as well. An individual headshot and well labeled user names are beneficial for your Professor, TAs, and mentors to become more familiar with whose assignments they are reviewing. “Putting a face to the name”.
+
+
+5. Issue 5
+- **Label**: grade request
+	- _This [new label](https://help.github.com/en/github/managing-your-work-on-github/creating-a-label) should be created__.
+	- _This should be labeled as 'grade request', as it is not an Assignment1 task that you yourself are responsible for completing._
+- **Assignee**: assign all TAs to this task.
+- **Description**: Request for Assignment0 to be graded.
+
+___
+** Putting git commands into practice** :
+1. Visit the [GitPractice](insertlink) repository.
+2. Fork the repository.
+	![](insert_link)
+3. Clone your forked repository using the HTTPS clone url and create a branch.
+	![](insert_link)
+```Bash
+git clone [https_url]
+git branch // list branches
+git checkout -b [unityId] // create new branch from the current HEAD
+git branch
+git checkout [unityId] // switch to that branch
+```
+4. Add a new .txt file with your unity id as the file name (eg. paabhyan.txt).
+5. Add content to the new .txt file that gives a brief introduction of who you are and your background. This can simply be a few sentences.
+6. Stage and commit this change.
+```Bash
+git status // check changes currently staged
+git add [filename] // stage changes
+git status // check that change was staged
+git commit -m “Commit message”
+git push origin [unityId] // push branch changes to forked repo
+```
+7. Create a pull request. We suggest that you use the GitHub UI to do this. 
+![](insert_link)
+_This request will notify the repository owner of your requested change. He/She will then review the change and either approve or deny the merge._
+_____
+**Self Grading**:
+1. Self-grade your assignment.
+
+To complete this step, you should fill out the following assignment grading rubric, awarding and deducting points where appropriate. Once you have completed the rubric, you should include it in your README.md file in the assignment repository. You can do this one of two ways (1) embed a screenshot or (2) create the table using [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) formatting.
+
+
+| Component                                                                                             | Possible Assignment Points | Partial Deductions * full deduction taken if component is missing                                                                                                                                                                                                                                                                                                                                                                             | Assignment Points Earned |
+|-------------------------------------------------------------------------------------------------------|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+| 1. Create a private repo with correct name.                                                           | 4 points                   | (–1) repo is public (–1) repo name is incorrect                                                                                                                                                                                                                                                                                                                                                                                               |                          |
+| 2. Repo contains a README.md file                                                                     | 2 points                   | (–1) README is of different file type (ex: .txt)                                                                                                                                                                                                                                                                                                                                                                                              |                          |
+| 3. Repo includes all required Collaborators                                                           | 2 points                   | (–1) not all TAs are included as Collaborators                                                                                                                                                                                                                                                                                                                                                                                                |                          |
+| 4. Created a private project with correct name.                                                       | 4 points                   | (–1) project is public (–1) project name is incorrect                                                                                                                                                                                                                                                                                                                                                                                         |                          |
+| 5. Project is accessible via the assignment repo project tab.                                         | 2 points                   | None                                                                                                                                                                                                                                                                                                                                                                                                                                          |                          |
+| 6. Repo contains a .png file named completedGitLevels                                                 | 2 points                   | (–1) file extension of file is different than .png (ex: .jpg) (–1) filename is not completedGitLevels                                                                                                                                                                                                                                                                                                                                         |                          |
+| 7. completedGitLevels.png has been embedded in the repo README                                        | 2 points                   | (–1) file is linked and not embedded in the README                                                                                                                                                                                                                                                                                                                                                                                            |                          |
+| 8. Completed all 15 levels of the online git tutorial.                                                | 15 points                  | (–1) for each level that is not completed                                                                                                                                                                                                                                                                                                                                                                                                     |                          |
+| 9. Project Board Issue #1                                                                             | 8 points                   | (–1) incorrect Label (–1) incorrect Assignee (–1) Description is does not accurately describe the issue/task (–1) Issue did not move through the ToDo column (–1) Issue did not move through the InProgress column (–1) Issue did not move through the Done column (–1) Issue is not closed (–1) Issue not completed on time                                                                                                                  |                          |
+| 10. Project Board Issue #2                                                                            | 8 points                   | (–1) incorrect Label (–1) incorrect Assignee (–1) Description is does not accurately describe the issue/task (–1) Issue did not move through the ToDo column (–1) Issue did not move through the InProgress column (–1) Issue did not move through the Done column (–1) Issue is not closed (–1) Issue not completed on time                                                                                                                  |                          |
+| 11. Project Board Issue #3                                                                            | 8 points                   | (–1) incorrect Label (–1) incorrect Assignee (–1) Description is does not accurately describe the issue/task (–1) Issue did not move through the ToDo column (–1) Issue did not move through the InProgress column (–1) Issue did not move through the Done column (–1) Issue is not closed (–1) Issue not completed on time                                                                                                                  |                          |
+| 12. Project Board Issue #4                                                                            | 11 points                  | (–1) incorrect Label (–1) incorrect Assignee (–1) Description is does not accurately describe the issue/task (–1) Issue did not move through the ToDo column (–1) Issue did not move through the InProgress column (–1) Issue did not move through the Done column (–1) Issue is not closed (–1) Issue not completed on time (–1) Headshot not appropriately updated (–1) Email not appropriately updated (–1) Name not appropriately updated |                          |
+| 13. Project Board Issue #5                                                                            | 6 points                   | (-1) incorrect Label (-1) incorrect Assignee (-1) Description does not accurately describe the issue/task.                                                                                                                                                                                                                                                                                                                                    |                          |
+| 14. Completed Assignment Rubric is embedded in README.md or included via markdown formatting.         | 2 points                   | None                                                                                                                                                                                                                                                                                                                                                                                                                                          |                          |
+| 15. Pull request received with new file [<unityid>.txt] requested to be merged into GitPractice repo. | 2 points                   | None                                                                                                                                                                                                                                                                                                                                                                                                                                          |                          |
+|
