@@ -85,9 +85,9 @@ ___
 **Putting git commands into practice** :
 1. Visit the [GitPractice](insertlink) repository.
 2. Fork the repository.
-	![](insert_link)
+	![](fork_repo.png)
 3. Clone your forked repository using the HTTPS clone url and create a branch.
-	![](insert_link)
+	![](clone_repo.png)
 ```Bash
 git clone [https_url]
 git branch // list branches
@@ -106,7 +106,8 @@ git commit -m “Commit message”
 git push origin [unityId] // push branch changes to forked repo
 ```
 7. Create a pull request. We suggest that you use the GitHub UI to do this. 
-![](insert_link)
+![](new_pull_request.png)
+
 _This request will notify the repository owner of your requested change. He/She will then review the change and either approve or deny the merge._
 _____
 **Self Grading**:
