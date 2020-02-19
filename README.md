@@ -1,7 +1,6 @@
 # Assignment 0 – GITHUB
 ## CSC/ECE 517 - Object Oriented Design & Development
-[Lecture 1 - GitHub Project Board Introduction](link)
-_the above links the introduction presentation provided in class_
+[Lecture 1 - GitHub Project Board Introduction](link): _links the introduction presentation provided in class_
 ______
 **Due Date** : Month dd, yyyy @ hh:mm am/pm
 - _Assignment submission will be verified by the timestamps noted in the repository log_
@@ -61,7 +60,7 @@ levels required. It will also give you an opportunity to experience adding files
 3. Issue 3
 - **Label**: Assignment1 Todo
 - **Assignee**: You are responsible for completing this Issue, assign yourself to the task.
-- **Description**: Embed _completedGitLevels.png_ within your CSC_ECE_517_Assignment1 repository README.md
+- **Description**: [Embed](https://www.youtube.com/watch?v=hHbWF1Bvgf4) _completedGitLevels.png_ within your CSC_ECE_517_Assignment1 repository README.md
 
 _This will give you an opportunity to work with a markdown file to embed an image into your README.md rather than just inserting a link. You will be required to do this in future assignments to enhance your project wiki pages._
 
