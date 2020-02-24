@@ -13,7 +13,8 @@ ______
 
 **Notes** :
 - For reference, a document with example screenshots of steps can be 
-accessed [here](Assignment0_Example_Screenshots.docx). Download the raw content to access.
+accessed [here](Assignment0_Example_Screenshots.docx).
+- View the raw content to download and access the document from the link.
 
 _______
 
