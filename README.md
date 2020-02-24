@@ -1,6 +1,6 @@
 # Assignment 0 – GITHUB
 ## CSC/ECE 517 - Object Oriented Design & Development
-[Lecture 1 - GitHub Project Board Introduction](link): _links the introduction presentation provided in class_
+[Lecture 1 - GitHub Project Board Introduction](https://drive.google.com/file/d/17hpCC95cXsN4hD8NDJ_FOwzzKg9zSs3o/view?usp=sharing): _links the introduction presentation provided in class_
 ______
 **Due Date** : Month dd, yyyy @ hh:mm am/pm
 - _Assignment submission will be verified by the timestamps noted in the repository log_
@@ -9,7 +9,7 @@ ______
 
 **Piazza** : Feel free to post questions, observations, and tips to Piazza. _Do not post solutions_.
 
-**Description** :	This Assignment is designed as an introductory exercise for NCSU GitHub Enterprise, GitHub Project Boards, and Git command sequences. There are several steps to this assignment and you are encouraged to complete them in sequence. Each of the tools introduced in this assignment will be used in this course. By the end, you should feel comfortable with applying the basics of these in future homework and projects.
+**Description** :	This Assignment is designed as an introductory exercise for NCSU GitHub Enterprise, [GitHub](https://help.github.com/en/articles/about-project-boards) [Project](https://www.youtube.com/watch?v=C6MGKHkNtxU) [Boards](https://codeburst.io/an-introduction-to-github-project-boards-2944e6ffbf3c), and Git command sequences. There are several steps to this assignment and you are encouraged to complete them in sequence. Each of the tools introduced in this assignment will be used in this course. By the end, you should feel comfortable with applying the basics of these in future homework and projects.
 
 **Notes** :
 - For reference, a document with example screenshots of steps can be 
@@ -27,7 +27,7 @@ _______
 ```Bash
 settings → collaborators
 ```
-4. Watch the [GitHub Project Introduction Screencast](link).
+4. Watch the [GitHub Project Introduction Screencast](https://drive.google.com/file/d/10g3hcAgOEg2lHJeIm4I6zQjDJ1N8KKPB/view?usp=sharing).
 - This presentation contains specific information about how to complete the remainder of this assignment.
 5. Create a new private GitHub Project **(via the project tab of your repo)**
 - Name it **CSC_ECE_517_Assignment1**
