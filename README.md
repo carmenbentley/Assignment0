@@ -12,9 +12,8 @@ ______
 **Description** :	This Assignment is designed as an introductory exercise for NCSU GitHub Enterprise, GitHub Project Boards, and Git command sequences. There are several steps to this assignment and you are encouraged to complete them in sequence. Each of the tools introduced in this assignment will be used in this course. By the end, you should feel comfortable with applying the basics of these in future homework and projects.
 
 **Notes** :
-- For reference, a folder with example screenshots of steps can be 
-accessed [here](link).
-- Assignment tips can be viewed [here](link).
+- For reference, a document with example screenshots of steps can be 
+accessed [here](Assignment0_Example_Screenshots.docx). Download the raw content to access.
 
 _______
 
