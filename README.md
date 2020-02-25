@@ -20,20 +20,20 @@ _______
 
 **SetUp** :
 1. Sign into [NCSU’s GitHub](https://github.ncsu.edu/)
-- _If you have never accessed your NCSU GitHub account, a first time login with your NCSU unity id and password is all that is needed to set up the service._
+	- _If you have never accessed your NCSU GitHub account, a first time login with your NCSU unity id and password is all that is needed to set up the service._
 2. Create a _private_ repo:
-- Name it **CSC_ECE_517_Assignment1** and select the option to “initialize this repository with a README”.
+	- Name it **CSC_ECE_517_Assignment1** and select the option to “initialize this repository with a README”.
 3. Add the instructor and all TAs as collaborators using their Unity IDs.
 ```Bash
 settings → collaborators
 ```
 4. Watch the [GitHub Project Introduction Screencast](https://drive.google.com/file/d/10g3hcAgOEg2lHJeIm4I6zQjDJ1N8KKPB/view?usp=sharing).
-- This presentation contains specific information about how to complete the remainder of this assignment.
-- Also, read through the [GitHub Project Boards HOW TO](GPB_HOW_TO.md) guide for suggestions on how to work throughout the project.
+	- This presentation contains specific information about how to complete the remainder of this assignment.
+	- Also, read through the [GitHub Project Boards HOW TO](GPB_HOW_TO.md) guide for suggestions on how to work throughout the project.
 5. Create a new private GitHub Project **(via the project tab of your repo)**
-- Name it **CSC_ECE_517_Assignment1**
-- Select the _Basic Kanban_ template, and link your assignment repository.
-- You can set up your Project Board Columns in a variety of ways. Your board **must** include a _ToDO_, _InProgress_, and _Done_ column. You may reference the following [Project Board](https://github.com/carmenbentley/Assignment0/projects/1) as a template.
+	- Name it **CSC_ECE_517_Assignment1**
+	- Select the _Basic Kanban_ template, and link your assignment repository.
+	- You can set up your Project Board Columns in a variety of ways. Your board **must** include a _ToDO_, _InProgress_, and _Done_ column. You may reference the following [Project Board](https://github.com/carmenbentley/Assignment0/projects/1) as a template.
 ________
 **GitHub Project Boards** :
 - _Create Project issues/tasks for each of the following, moving them appropriately through the kanban board columns and closing the issue when completed._
@@ -42,77 +42,53 @@ ToDo → InProgress → Done
 ```
 - **Note**: as stated in the above presentation, GitHub Project Board Issues are also known as Tasks. Issues are a generalized card on the Project Board that can represent an item that needs to be completed, fixed, reconsidered, etc.
 1. Issue 1
-- **Label**: Assignment1 Todo
-	- _This [new label](https://help.github.com/en/github/managing-your-work-on-github/creating-a-label) should be created_.
-- **Assignees**: You are responsible for completing this Issue,a assign yourself to the task.
-- **Description**: Complete all the levels in the following “Main” topics of the [Git Tutorial](http://pcottle.github.io/learnGitBranching/)
-	- (1) Introduction Sequence
-	- (2) Ramping Up
-	- (3) Moving Work Around
-	- (4) A Mixed Bag
+	- **Label**: Assignment1 Todo
+		- _This [new label](https://help.github.com/en/github/managing-your-work-on-github/creating-a-label) should be created_.
+	- **Assignees**: You are responsible for completing this Issue,a assign yourself to the task.
+	- **Description**: Complete all the levels in the following “Main” topics of the [Git Tutorial](http://pcottle.github.io/learnGitBranching/)
+		- (1) Introduction Sequence
+		- (2) Ramping Up
+		- (3) Moving Work Around
+		- (4) A Mixed Bag
 
 _Once you have completed each of the levels required for this task, you should have learned the basics for understanding important git commands and sequences that will be helpful when completing group assignments using a shared code base, such as committing code, merging conflicts, branching, etc._
+
 2. Issue 2
-- **Label**: Assignment1 Todo
-- **Assignees**: You are responsible for completing this Issue, assign yourself to the task.
-- **Description**: Add a screenshot named _completedGitLevels.png_ to your CSC_ECE517_Assignment1 repository that captures your progress of the tutorial mentioned in Issue 1.
+	- **Label**: Assignment1 Todo
+	- **Assignees**: You are responsible for completing this Issue, assign yourself to the task.
+	- **Description**: Add a screenshot named _completedGitLevels.png_ to your CSC_ECE517_Assignment1 repository that captures your progress of the tutorial mentioned in Issue 1.
 
 _This image will serve as evidence that you have completed the 
 levels required. It will also give you an opportunity to experience adding files to your NCSU GitHub Repository. Below you will see an example screenshot of what your image should look like._
 ![](Example_completedGitLevels.png)
 
 3. Issue 3
-- **Label**: Assignment1 Todo
-- **Assignee**: You are responsible for completing this Issue, assign yourself to the task.
-- **Description**: [Embed](https://www.youtube.com/watch?v=hHbWF1Bvgf4) _completedGitLevels.png_ within your CSC_ECE_517_Assignment1 repository README.md
+	- **Label**: Assignment1 Todo
+	- **Assignee**: You are responsible for completing this Issue, assign yourself to the task.
+	- **Description**: [Embed](https://www.youtube.com/watch?v=hHbWF1Bvgf4) _completedGitLevels.png_ within your CSC_ECE_517_Assignment1 repository README.md
 
 _This will give you an opportunity to work with a markdown file to embed an image into your README.md rather than just inserting a link. You will be required to do this in future assignments to enhance your project wiki pages._
 
 4. Issue 4
-- **Label**: Assignment1 Todo
-- **Assignee**: yourself
-- **Description**:
-	- (1) Add a headshot as your profile picture for your NCSU GitHub account. _This picture should include only you and no other people._
-	- (2) Update your public name to first and last name known at NCSU. 
-	- (3) Update your public email to your ncsu email.
-	- NOTE: if a course project requires use of a personal github repository, please complete the above steps for it as well. An individual headshot and well labeled user names are beneficial for your Professor, TAs, and mentors to become more familiar with whose assignments they are reviewing. “Putting a face to the name”.
+	- **Label**: Assignment1 Todo
+	- **Assignee**: yourself
+	- **Description**:
+		- (1) Add a headshot as your profile picture for your NCSU GitHub account. _This picture should include only you and no other people._
+		- (2) Update your public name to first and last name known at NCSU. 
+		- (3) Update your public email to your ncsu email.
+		- NOTE: if a course project requires use of a personal github repository, please complete the above steps for it as well. An individual headshot and well labeled user names are beneficial for your Professor, TAs, and mentors to become more familiar with whose assignments they are reviewing. “Putting a face to the name”.
 
 
 5. Issue 5
-- **Label**: grade request
-	- _This [new label](https://help.github.com/en/github/managing-your-work-on-github/creating-a-label) should be created_.
-	- _This should be labeled as 'grade request', as it is not an Assignment1 task that you yourself are responsible for completing._
-- **Assignee**: assign all TAs to this task.
-- **Description**: Request for Assignment0 to be graded.
+	- **Label**: grade request
+		- _This [new label](https://help.github.com/en/github/managing-your-work-on-github/creating-a-label) should be created_.
+		- _This should be labeled as 'grade request', as it is not an Assignment1 task that you yourself are responsible for completing._
+	- **Assignee**: assign all TAs to this task.
+	- **Description**: Request for Assignment0 to be graded.
 
 ___
 **Putting git commands into practice** :
-1. Visit the [GitPractice](https://github.com/carmenbentley/GitPractice) repository.
-2. Fork the repository.
-	![](fork_repo.png)
-3. Clone your forked repository using the HTTPS clone url and create a branch.
-	![](clone_repo.png)
-```Bash
-git clone [https_url]
-git branch // list branches
-git checkout -b [unityId] // create new branch from the current HEAD
-git branch
-git checkout [unityId] // switch to that branch
-```
-4. Add a new .txt file with your unity id as the file name (ex: cnaiken.txt).
-5. Add content to the new .txt file that gives a brief introduction of who you are and your background. This can simply be a few sentences.
-6. Stage and commit this change.
-```Bash
-git status // check changes currently staged
-git add [filename] // stage changes
-git status // check that change was staged
-git commit -m “Commit message”
-git push origin [unityId] // push branch changes to forked repo
-```
-7. Create a pull request. We suggest that you use the GitHub UI to do this. 
-![](new_pull_request.png)
-
-_This request will notify the repository owner of your requested change. He/She will then review the change and either approve or deny the merge._
+	- Complete the steps in the [GITPRACTICE](GITPRACTICE.md) document to fulfill the requires of this portion of Assignment0.
 _____
 **Self Grading**:
 1. Self-grade your assignment.
