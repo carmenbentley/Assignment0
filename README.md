@@ -16,6 +16,7 @@ ______
 accessed [here](Assignment0_Example_Screenshots.docx).
 	- View the raw content to download and access the document from the link.
 
+[**References**](REFERENCES.md)
 _______
 
 **SetUp** :
@@ -112,18 +113,16 @@ _____
 | 14. Completed Assignment Rubric is embedded in README.md or included via markdown formatting.         | 2 points                   | None                                                                                                                                                                                                                                                                                                                                                                                                                                          |                          |
 | 15. Pull request received with new file [<unityid>.txt] requested to be merged into GitPractice repo. | 2 points                   | None                                                                                                                                                                                                                                                                                                                                                                                                                                          |                          |
 	
-_Your final grade will be computed based on 3 randomly selected rows from the above Assignment Grading Rubric._
-
-- Grading based on scores accumulated from rows 1, 8, and 12. Your grade will then be given based on the percentage of assignment points earned from the total possible assignment points of those rows. 
-
-	Possible Example Grading Results: 18 possible assignment points
-
+- Your final grade will be computed based on 3 randomly selected rows from the above Assignment Grading Rubric.
+	- **Example**:
+		- Grading based on scores accumulated from rows 1, 9, and 11. Your grade will then be given based on the percentage of assignment points earned from the total possible assignment points of those rows. 
+		- _Grading Results for example seen below: 18 possible assignment points_
+		
 | 18/18 = 100% <br/>17/18 = 94% <br/>16/18 = 89% <br/>15/18 = 83% <br/>14/18 = 78% <br/>13/18 = 72% <br/>12/18 = 67% | 11/18 = 61% <br/>10/18 = 56% <br/>9/18 = 50% <br/>8/18 = 44% <br/>7/18 = 39% <br/>6/18 = 33% | 5/18 = 28% <br/>4/18 = 22% <br/>3/18 = 17% <br/>2/18 = 11% <br/>1/18 = 6% <br/>0/18 = 0% |
 |--------------------------------------------------------------------------------------|---------------------------------------------------------------------|-----------------------------------------------------------------|
 
 
-_The percentage of assignment points earned will be translated as a percentage of course points that you earned for this assignment._
-
-**Example** :
-- Assignment 0 is worth 10 course points and you earned 94% of the possible assignment points. This translates to earning 9.4 course points.
+- The percentage of assignment points earned will be translated as a percentage of course points that you earned for this assignment.
+	- **Example**:
+		- Assignment 0 is worth 10 course points and you earned 94% of the possible assignment points. This translates to earning 9.4 course points.
 
