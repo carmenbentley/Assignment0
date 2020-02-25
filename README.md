@@ -14,7 +14,7 @@ ______
 **Notes** :
 - For reference, a document with example screenshots of steps can be 
 accessed [here](Assignment0_Example_Screenshots.docx).
-- View the raw content to download and access the document from the link.
+	- View the raw content to download and access the document from the link.
 
 _______
 
@@ -36,7 +36,8 @@ settings → collaborators
 	- You can set up your Project Board Columns in a variety of ways. Your board **must** include a _ToDO_, _InProgress_, and _Done_ column. You may reference the following [Project Board](https://github.com/carmenbentley/Assignment0/projects/1) as a template.
 ________
 **GitHub Project Boards** :
-- _Create Project issues/tasks for each of the following, moving them appropriately through the kanban board columns and closing the issue when completed._
+
+1. _Create Project issues/tasks for each of the following, moving them appropriately through the kanban board columns and closing the issue when completed._
 ```Bash
 ToDo → InProgress → Done
 ```
@@ -88,12 +89,11 @@ _This will give you an opportunity to work with a markdown file to embed an imag
 
 ___
 **Putting git commands into practice** :
-	- Complete the steps in the [GITPRACTICE](GITPRACTICE.md) document to fulfill the requires of this portion of Assignment0.
+- Complete the steps in the [GITPRACTICE](GITPRACTICE.md) document to fulfill the requires of this portion of Assignment0.
 _____
 **Self Grading**:
 1. Self-grade your assignment.
-
-To complete this step, you should fill out the following assignment grading rubric, awarding and deducting points where appropriate. Once you have completed the rubric, you should include it in your README.md file in the assignment repository. You can do this one of two ways (1) embed a screenshot or (2) create the table using [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) formatting.
+- To complete this step, you should fill out the following assignment grading rubric, awarding and deducting points where appropriate. Once you have completed the rubric, you should include it in your README.md file in the assignment repository. You can do this one of two ways (1) embed a screenshot or (2) create the table using [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) formatting.
 
 
 | Component                                                                                             | Possible Assignment Points | Partial Deductions * full deduction taken if component is missing                                                                                                                                                                                                                                                                                                                                                                             | Assignment Points Earned |
