@@ -42,7 +42,7 @@ ToDo → InProgress → Done
 - **Note**: as stated in the above presentation, GitHub Project Board Issues are also known as Tasks. Issues are a generalized card on the Project Board that can represent an item that needs to be completed, fixed, reconsidered, etc.
 1. Issue 1
 - **Label**: Assignment1 Todo
-	- _This [new label](https://help.github.com/en/github/managing-your-work-on-github/creating-a-label) should be created__.
+	- _This [new label](https://help.github.com/en/github/managing-your-work-on-github/creating-a-label) should be created_.
 - **Assignees**: You are responsible for completing this Issue,a assign yourself to the task.
 - **Description**: Complete all the levels in the following “Main” topics of the [Git Tutorial](http://pcottle.github.io/learnGitBranching/)
 	- (1) Introduction Sequence
@@ -79,7 +79,7 @@ _This will give you an opportunity to work with a markdown file to embed an imag
 
 5. Issue 5
 - **Label**: grade request
-	- _This [new label](https://help.github.com/en/github/managing-your-work-on-github/creating-a-label) should be created__.
+	- _This [new label](https://help.github.com/en/github/managing-your-work-on-github/creating-a-label) should be created_.
 	- _This should be labeled as 'grade request', as it is not an Assignment1 task that you yourself are responsible for completing._
 - **Assignee**: assign all TAs to this task.
 - **Description**: Request for Assignment0 to be graded.
@@ -98,7 +98,7 @@ git checkout -b [unityId] // create new branch from the current HEAD
 git branch
 git checkout [unityId] // switch to that branch
 ```
-4. Add a new .txt file with your unity id as the file name (eg. paabhyan.txt).
+4. Add a new .txt file with your unity id as the file name (ex: cnaiken.txt).
 5. Add content to the new .txt file that gives a brief introduction of who you are and your background. This can simply be a few sentences.
 6. Stage and commit this change.
 ```Bash
