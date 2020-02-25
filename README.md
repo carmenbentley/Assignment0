@@ -29,6 +29,7 @@ settings → collaborators
 ```
 4. Watch the [GitHub Project Introduction Screencast](https://drive.google.com/file/d/10g3hcAgOEg2lHJeIm4I6zQjDJ1N8KKPB/view?usp=sharing).
 - This presentation contains specific information about how to complete the remainder of this assignment.
+- Also, read through the [GitHub Project Boards HOW TO](GPB_HOW_TO.md) guide for suggestions on how to work throughout the project.
 5. Create a new private GitHub Project **(via the project tab of your repo)**
 - Name it **CSC_ECE_517_Assignment1**
 - Select the _Basic Kanban_ template, and link your assignment repository.
