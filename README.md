@@ -37,7 +37,7 @@ settings → collaborators
 ________
 **GitHub Project Boards** :
 
-1. _Create Project issues/tasks for each of the following, moving them appropriately through the kanban board columns and closing the issue when completed._
+_Now that you have created a Project, add the following issues/tasks, moving them appropriately through the project columns and closing the issue when completed._
 ```Bash
 ToDo → InProgress → Done
 ```
@@ -92,8 +92,8 @@ ___
 - Complete the steps in the [GITPRACTICE](GITPRACTICE.md) document to fulfill the requires of this portion of Assignment0.
 _____
 **Self Grading**:
-1. Self-grade your assignment.
-- To complete this step, you should fill out the following assignment grading rubric, awarding and deducting points where appropriate. Once you have completed the rubric, you should include it in your README.md file in the assignment repository. You can do this one of two ways (1) embed a screenshot or (2) create the table using [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) formatting.
+- Self-grade your assignment.
+	- To complete this step, you should fill out the following assignment grading rubric, awarding and deducting points where appropriate. Once you have completed the rubric, you should include it in your README.md file in the assignment repository. You can do this one of two ways (1) embed a screenshot or (2) create the table using [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) formatting.
 
 
 | Component                                                                                             | Possible Assignment Points | Partial Deductions * full deduction taken if component is missing                                                                                                                                                                                                                                                                                                                                                                             | Assignment Points Earned |
