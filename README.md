@@ -36,8 +36,7 @@ settings → collaborators
 	- You can set up your Project Board Columns in a variety of ways. Your board **must** include a _ToDO_, _InProgress_, and _Done_ column. You may reference the following [Project Board](https://github.com/carmenbentley/Assignment0/projects/1) as a template.
 ________
 **GitHub Project Boards** :
-
-_Now that you have created a Project, add the following issues/tasks, moving them appropriately through the project columns and closing the issue when completed._
+- Now that you have created a Project, add the following issues/tasks, moving them appropriately through the project columns and closing the issue when completed.
 ```Bash
 ToDo → InProgress → Done
 ```
@@ -52,15 +51,14 @@ ToDo → InProgress → Done
 		- (3) Moving Work Around
 		- (4) A Mixed Bag
 
-_Once you have completed each of the levels required for this task, you should have learned the basics for understanding important git commands and sequences that will be helpful when completing group assignments using a shared code base, such as committing code, merging conflicts, branching, etc._
+	_Once you have completed each of the levels required for this task, you should have learned the basics for understanding important git commands and sequences that will be helpful when completing group assignments using a shared code base, such as committing code, merging conflicts, branching, etc._
 
 2. Issue 2
 	- **Label**: Assignment1 Todo
 	- **Assignees**: You are responsible for completing this Issue, assign yourself to the task.
 	- **Description**: Add a screenshot named _completedGitLevels.png_ to your CSC_ECE517_Assignment1 repository that captures your progress of the tutorial mentioned in Issue 1.
 
-_This image will serve as evidence that you have completed the 
-levels required. It will also give you an opportunity to experience adding files to your NCSU GitHub Repository. Below you will see an example screenshot of what your image should look like._
+	_This image will serve as evidence that you have completed the levels required. It will also give you an opportunity to experience adding files to your NCSU GitHub Repository. Below you will see an example screenshot of what your image should look like._
 ![](Example_completedGitLevels.png)
 
 3. Issue 3
@@ -68,7 +66,7 @@ levels required. It will also give you an opportunity to experience adding files
 	- **Assignee**: You are responsible for completing this Issue, assign yourself to the task.
 	- **Description**: [Embed](https://www.youtube.com/watch?v=hHbWF1Bvgf4) _completedGitLevels.png_ within your CSC_ECE_517_Assignment1 repository README.md
 
-_This will give you an opportunity to work with a markdown file to embed an image into your README.md rather than just inserting a link. You will be required to do this in future assignments to enhance your project wiki pages._
+	_This will give you an opportunity to work with a markdown file to embed an image into your README.md rather than just inserting a link. You will be required to do this in future assignments to enhance your project wiki pages._
 
 4. Issue 4
 	- **Label**: Assignment1 Todo
@@ -114,8 +112,8 @@ _____
 | 14. Completed Assignment Rubric is embedded in README.md or included via markdown formatting.         | 2 points                   | None                                                                                                                                                                                                                                                                                                                                                                                                                                          |                          |
 | 15. Pull request received with new file [<unityid>.txt] requested to be merged into GitPractice repo. | 2 points                   | None                                                                                                                                                                                                                                                                                                                                                                                                                                          |                          |
 	
-Your final grade will be computed based on 3 randomly selected rows from the above Assignment Grading Rubric.
-**Example**:
+_Your final grade will be computed based on 3 randomly selected rows from the above Assignment Grading Rubric._
+
 - Grading based on scores accumulated from rows 1, 8, and 12. Your grade will then be given based on the percentage of assignment points earned from the total possible assignment points of those rows. 
 
 	Possible Example Grading Results: 18 possible assignment points
@@ -124,8 +122,8 @@ Your final grade will be computed based on 3 randomly selected rows from the abo
 |--------------------------------------------------------------------------------------|---------------------------------------------------------------------|-----------------------------------------------------------------|
 
 
-The percentage of assignment points earned will be translated as a percentage of course points that you earned for this assignment.
+_The percentage of assignment points earned will be translated as a percentage of course points that you earned for this assignment._
 
 **Example** :
-- Assignment 1 is worth 10 course points and you earned 94% of the possible assignment points. This translates to earning 9.4 course points.
+- Assignment 0 is worth 10 course points and you earned 94% of the possible assignment points. This translates to earning 9.4 course points.
 
