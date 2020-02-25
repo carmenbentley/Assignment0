@@ -19,11 +19,11 @@ accessed [here](Assignment0_Example_Screenshots.docx).
 [**Assignment Resource Links**](RESOURCELINKS.md)
 _______
 
-**SetUp** :
+**Assignment SetUp** :
 1. Sign into [NCSU’s GitHub](https://github.ncsu.edu/)
 	- _If you have never accessed your NCSU GitHub account, a first time login with your NCSU unity id and password is all that is needed to set up the service._
 2. Create a _private_ repo:
-	- Name it **CSC_ECE_517_Assignment1** and select the option to “initialize this repository with a README”.
+	- Name it **CSC_ECE_517_Assignment0** and select the option to “initialize this repository with a README”.
 3. Add the instructor and all TAs as collaborators using their Unity IDs.
 ```Bash
 settings → collaborators
@@ -32,18 +32,18 @@ settings → collaborators
 	- This presentation contains specific information about how to complete the remainder of this assignment.
 	- Also, read through the [GitHub Project Boards HOW TO](GPB_HOW_TO.md) guide for suggestions on how to work throughout the project.
 5. Create a new private GitHub Project **(via the project tab of your repo)**
-	- Name it **CSC_ECE_517_Assignment1**
+	- Name it **CSC_ECE_517_Assignment0**
 	- Select the _Basic Kanban_ template, and link your assignment repository.
 	- You can set up your Project Board Columns in a variety of ways. Your board **must** include a _ToDO_, _InProgress_, and _Done_ column. You may reference the following [Project Board](https://github.com/carmenbentley/Assignment0/projects/1) as a template.
 ________
-**GitHub Project Boards** :
-- Now that you have created a Project, add the following issues/tasks, moving them appropriately through the project columns and closing the issue when completed.
+**Completing the Project Board** :
+- Now that you have created a new Project Board, add the following issues/tasks, moving them appropriately through the project columns and closing the issue when completed.
 ```Bash
 ToDo → InProgress → Done
 ```
 - **Note**: as stated in the above presentation, GitHub Project Board Issues are also known as Tasks. Issues are a generalized card on the Project Board that can represent an item that needs to be completed, fixed, reconsidered, etc.
 1. Issue 1
-	- **Label**: Assignment1 Todo
+	- **Label**: Assignment0 Todo
 		- _This [new label](https://help.github.com/en/github/managing-your-work-on-github/creating-a-label) should be created_.
 	- **Assignees**: You are responsible for completing this Issue,a assign yourself to the task.
 	- **Description**: Complete all the levels in the following “Main” topics of the [Git Tutorial](http://pcottle.github.io/learnGitBranching/)
@@ -55,22 +55,22 @@ ToDo → InProgress → Done
 	_Once you have completed each of the levels required for this task, you should have learned the basics for understanding important git commands and sequences that will be helpful when completing group assignments using a shared code base, such as committing code, merging conflicts, branching, etc._
 
 2. Issue 2
-	- **Label**: Assignment1 Todo
+	- **Label**: Assignment0 Todo
 	- **Assignees**: You are responsible for completing this Issue, assign yourself to the task.
-	- **Description**: Add a screenshot named _completedGitLevels.png_ to your CSC_ECE517_Assignment1 repository that captures your progress of the tutorial mentioned in Issue 1.
+	- **Description**: Add a screenshot named _completedGitLevels.png_ to your CSC_ECE517_Assignment0 repository that captures your progress of the tutorial mentioned in Issue 1.
 
 	_This image will serve as evidence that you have completed the levels required. It will also give you an opportunity to experience adding files to your NCSU GitHub Repository. Below you will see an example screenshot of what your image should look like._
 ![](Example_completedGitLevels.png)
 
 3. Issue 3
-	- **Label**: Assignment1 Todo
+	- **Label**: Assignment0 Todo
 	- **Assignee**: You are responsible for completing this Issue, assign yourself to the task.
-	- **Description**: [Embed](https://www.youtube.com/watch?v=hHbWF1Bvgf4) _completedGitLevels.png_ within your CSC_ECE_517_Assignment1 repository README.md
+	- **Description**: [Embed](https://www.youtube.com/watch?v=hHbWF1Bvgf4) _completedGitLevels.png_ within your CSC_ECE_517_Assignment0 repository README.md
 
 	_This will give you an opportunity to work with a markdown file to embed an image into your README.md rather than just inserting a link. You will be required to do this in future assignments to enhance your project wiki pages._
 
 4. Issue 4
-	- **Label**: Assignment1 Todo
+	- **Label**: Assignment0 Todo
 	- **Assignee**: yourself
 	- **Description**:
 		- (1) Add a headshot as your profile picture for your NCSU GitHub account. _This picture should include only you and no other people._
@@ -80,9 +80,15 @@ ToDo → InProgress → Done
 
 
 5. Issue 5
+	- **Label**: Assignment0 Todo
+	- **Assignee**: yourself
+	- **Description**: Include the completed self grading rubric in the repository README.md
+
+	_This will give you an opportunity to work with a markdown file to embed an image into your README.md or creating a markdown table rather than just inserting a link. You will be required to do this in future assignments to enhance your project wiki pages._
+6. Issue 6
 	- **Label**: grade request
 		- _This [new label](https://help.github.com/en/github/managing-your-work-on-github/creating-a-label) should be created_.
-		- _This should be labeled as 'grade request', as it is not an Assignment1 task that you yourself are responsible for completing._
+		- _This should be labeled as 'grade request', as it is not an Assignment0 task that you yourself are responsible for completing._
 	- **Assignee**: assign all TAs to this task.
 	- **Description**: Request for Assignment0 to be graded.
 
@@ -110,8 +116,9 @@ _____
 | 11. Project Board Issue #3                                                                            | 8 points                   | (–1) incorrect Label <br/>(–1) incorrect Assignee <br/>(–1) Description is does not accurately describe the issue/task <br/>(–1) Issue did not move through the ToDo column <br/>(–1) Issue did not move through the InProgress column <br/>(–1) Issue did not move through the Done column <br/>(–1) Issue is not closed <br/>(–1) Issue not completed on time                                                                                                                  |                          |
 | 12. Project Board Issue #4                                                                            | 11 points                  | (–1) incorrect Label <br/>(–1) incorrect Assignee <br/>(–1) Description is does not accurately describe the issue/task <br/>(–1) Issue did not move through the ToDo column <br/>(–1) Issue did not move through the InProgress column <br/>(–1) Issue did not move through the Done column <br/>(–1) Issue is not closed <br/>(–1) Issue not completed on time <br/>(–1) Headshot not appropriately updated <br/>(–1) Email not appropriately updated <br/>(–1) Name not appropriately updated |                          |
 | 13. Project Board Issue #5                                                                            | 6 points                   | (-1) incorrect Label <br/>(-1) incorrect Assignee <br/>(-1) Description does not accurately describe the issue/task.                                                                                                                                                                                                                                                                                                                                    |                          |
-| 14. Completed Assignment Rubric is embedded in README.md or included via markdown formatting.         | 2 points                   | None                                                                                                                                                                                                                                                                                                                                                                                                                                          |                          |
-| 15. Pull request received with new file [<unityid>.txt] requested to be merged into GitPractice repo. | 2 points                   | None                                                                                                                                                                                                                                                                                                                                                                                                                                          |                          |
+| 14. Project Board Issue #6                                                                            | 6 points                   | (-1) incorrect Label <br/>(-1) incorrect Assignee <br/>(-1) Description does not accurately describe the issue/task.                                                                                                                                                                                                                                                                                                                                    |                          |
+| 15. Completed Assignment Rubric is embedded in README.md or included via markdown formatting.         | 2 points                   | None                                                                                                                                                                                                                                                                                                                                                                                                                                          |                          |
+| 16. Pull request received with new file [<unityid>.txt] requested to be merged into GitPractice repo. | 2 points                   | None                                                                                                                                                                                                                                                                                                                                                                                                                                          |                          |
 	
 - Your final grade will be computed based on 3 randomly selected rows from the above Assignment Grading Rubric.
 	- **Example**:
