@@ -1,7 +1,7 @@
 ## Assignment Resource Links:
 
 1. [Lecture 1 - GitHub Project Board Introduction](https://drive.google.com/file/d/17hpCC95cXsN4hD8NDJ_FOwzzKg9zSs3o/view?usp=sharing)
-2. [Assignment Sample Screenshots](Assignment0_Example_Screenshots.docx)
+2. [Assignment Sample Screenshots](Assignment0_Example_Screenshots.docx) - _remember to view the raw content to access and view the document_
 3. [NCSU GitHub](https://github.ncsu.edu/)
 4. [GitHub Project Introduction Screencast](https://drive.google.com/file/d/10g3hcAgOEg2lHJeIm4I6zQjDJ1N8KKPB/view?usp=sharing)
 5. [GitHub Project Boards HOW TO](GPB_HOW_TO.md)
