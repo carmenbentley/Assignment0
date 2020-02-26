@@ -7,7 +7,7 @@
 5. [GitHub Project Boards HOW TO](GPB_HOW_TO.md)
 6. [Example Project Board](https://github.com/carmenbentley/Assignment0/projects/1)
 7. [Git Tutorial](http://pcottle.github.io/learnGitBranching/)
-8. [GIT Practice](https://github.com/carmenbentley/Assignment0/blob/master/GITPRACTICE.md)
+8. [Git Practice](https://github.com/carmenbentley/Assignment0/blob/master/GITPRACTICE.md)
 _____
 
 ## Additional Resource Links:
