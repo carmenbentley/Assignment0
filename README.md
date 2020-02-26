@@ -16,7 +16,8 @@ ______
 accessed [here](Assignment0_Example_Screenshots.docx).
 	- View the raw content to download and access the document from the link.
 
-[**Assignment Resource Links**](RESOURCELINKS.md)
+[**Assignment Resource Links**](RESOURCELINKS.md):
+- All resources needed for the assignment can be found in this document along with additional resources that provide further help.
 _______
 
 **Assignment SetUp** :
